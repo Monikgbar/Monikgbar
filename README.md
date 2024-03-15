@@ -10,7 +10,7 @@
 
 
 ### Mis estadísticas en Github
-[!][Hua's github stats](https://github-readme-stats.vercel.app/api?username=Monikgbar&show_icons=true&theme=dark)](https://github.com/Monikgbar/github-readme-stats)
+[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Monikgbar&show_icons=true&theme=dark)](https://github.com/Monikgbar/github-readme-stats)
 
 ## Contacto
 [!][Gmail Badge](https://img.shields.io/badge/-monicagonba@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:monicagonba@gmail.com)
