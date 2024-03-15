@@ -13,4 +13,4 @@
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Monikgbar&show_icons=true&theme=dark)](https://github.com/Monikgbar/github-readme-stats)
 
 ## Contacto
-[![linkedin Badge][https:img.shields.io/badge/-Mónica_González-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/m%C3%B3nica-gonz%C3%A1lez/)](https://www.linkedin.com/in/m%C3%B3nica-gonz%C3%A1lez)
+[![linkedin Badge][https:img.shields.io/badge/-Mónica_González-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/m%C3%B3nica-gonz%C3%A1lez-45a993240//)](https://www.linkedin.com/in/m%C3%B3nica-gonz%C3%A1lez-45a993240/)
