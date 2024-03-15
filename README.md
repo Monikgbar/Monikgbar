@@ -10,5 +10,6 @@
 
 
 ### Mis estadísticas en Github
-[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Monikgbar&show_icons=true&theme=dark)]
+[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Monikgbar&show_icons=true&theme=dark)](https://github.com/Monikgbar/github-readme-stats)
 
+## Contacto
